@@ -2,7 +2,7 @@
 # TunnelFire180 Dataset (FDS-based)
 
 This repository provides the metadata, documentation, and access links for the tunnel fire temperature-field dataset used in our paper:
-**"[Physics-informed Fourier neural operator for surrogate prediction of tunnel fire temperature field]"** (Year).
+**"[Physics-informed Fourier neural operator for surrogate prediction of tunnel fire temperature field]"** (2026).
 
 > **Note:** Due to the large size of the raw data, the dataset files are hosted on Baidu Netdisk. This GitHub repository contains documentation, metadata, checksums, and minimal loading examples.
 
