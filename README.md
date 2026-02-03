@@ -19,6 +19,31 @@ This repository provides the metadata, documentation, and access links for the t
 
 ---
 
+## Code availability
+The full training and inference codebase will be released soon.
+
+---
+
+## Results
+
+We provide two lightweight GIF demos for quick visualization.
+
+### Demo 1 — 30MW, 20m, 0m/s, 3%
+<p align="center">
+  <img src="results/gif/Video S1.gif" width="900" alt="Demo 1">
+</p>
+
+### Demo 2 — 5MW, 20m, 2m/s, -3%
+<p align="center">
+  <img src="results/gif/Video S2.gif" width="900" alt="Demo 2">
+</p>
+
+**Notes**
+- The GIFs are intended for qualitative inspection (visual structure, plume boundary, hotspot location).
+- Quantitative metrics and additional cases are reported in the paper.
+
+---
+
 ## Download
 ### Baidu Netdisk
 - File: `scenario_180.zip`
