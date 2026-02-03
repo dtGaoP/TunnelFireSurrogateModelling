@@ -30,12 +30,12 @@ We provide two lightweight GIF demos for quick visualization.
 
 ### Demo 1 — 30MW, 20m, 0m/s, 3%
 <p align="center">
-  <img src="results/gif/Video S1.gif" width="900" alt="Demo 1">
+  <img src="results/Video S1.gif" width="900" alt="Demo 1">
 </p>
 
 ### Demo 2 — 5MW, 20m, 2m/s, -3%
 <p align="center">
-  <img src="results/gif/Video S2.gif" width="900" alt="Demo 2">
+  <img src="results/Video S2.gif" width="900" alt="Demo 2">
 </p>
 
 **Notes**
