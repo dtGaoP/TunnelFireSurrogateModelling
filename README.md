@@ -20,7 +20,7 @@ This repository provides the metadata, documentation, and access links for the t
 ---
 
 ## Code availability
-The full training and inference codebase will be released soon.
+The training and inference code will be released soon in this repository.
 
 ---
 
